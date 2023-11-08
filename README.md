@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [a next.js Pokedex!](https://github.com/rubensilva3/pokedex)
 
-- 🌱 I’m currently learning **React and .NET!**
+- 🌱 I’m currently learning **React and Vue!**
 
 - 📫 How to reach me **rubentiago3@gmail.com**
 
