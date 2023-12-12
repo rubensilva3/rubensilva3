@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ruben Silva!</h1>
-<h3 align="center">A passionate Junior Frontend Developer from Portugal :jack_o_lantern:</h3>
+<h1 align="center">Hi 👋, I'm Ruben!</h1>
+<h3 align="center">A passionate Junior Frontend Developer :jack_o_lantern:</h3>
 
 
 
