@@ -11,7 +11,7 @@
 
   <div align=left>
     <ul>
-        <li> 🧑🏼‍💻 Junior Frontend Software Engineer with <strong> 2 years of experience. </strong> </li>
+        <li> 🧑🏼‍💻 Frontend Software Engineer with <strong> 2 years of experience. </strong> </li>
         <li> 💻 I specialize in <strong> Vue.js / Typescript. </strong>
         <li> 📚 Detail-oriented developer with a keen eye for UI/UX design principles. </li>
     </ul>
